@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>6706 Transactions API</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 40px 24px; background: #101114; color: #eceff3; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    main { max-width: 1040px; margin: auto; }
+    h1 { margin: 0 0 8px; font-size: 1.9rem; }
+    .intro, .muted { color: #9aa3ad; line-height: 1.6; }
+    .pill { display: inline-block; margin-left: 10px; padding: 3px 10px; border: 1px solid #24523c; border-radius: 20px; background: #13281f; color: #66d89a; font: 0.75rem monospace; vertical-align: middle; }
+    .card { margin-top: 22px; padding: 22px; border: 1px solid #2c3239; border-radius: 8px; background: #191c21; }
+    h2 { margin: 0 0 15px; color: #8d97a2; font-size: 0.78rem; letter-spacing: .08em; text-transform: uppercase; }
+    .endpoint, pre { overflow-x: auto; padding: 14px 16px; border: 1px solid #333a43; border-radius: 6px; background: #111317; font: .84rem/1.6 monospace; }
+    .endpoint a { color: #6bb5ff; text-decoration: none; }
+    .get { margin-right: 10px; padding: 2px 8px; border: 1px solid #24523c; border-radius: 4px; color: #66d89a; }
+    .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+    .stat { padding: 16px; border: 1px solid #2c3239; border-radius: 7px; background: #111317; }
+    .stat strong { display: block; font-size: 1.3rem; color: #fff; }
+    .stat span { color: #8d97a2; font-size: .8rem; }
+    .table-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; font-size: .82rem; }
+    th, td { padding: 10px; border-bottom: 1px solid #2c3239; text-align: left; white-space: nowrap; }
+    th { color: #8d97a2; font-size: .72rem; text-transform: uppercase; }
+    td { color: #cdd3da; }
+    code { color: #ffb36b; }
+    @media (max-width: 640px) { body { padding: 28px 16px; } .stats { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+<main>
+  <h1>6706 Transactions API <span class="pill">Auto Sync</span></h1>
+  <p class="intro">A public JSON feed for affiliate 6706 transaction data, refreshed from Google Sheets every 15 minutes.</p>
+
+  <section class="card">
+    <h2>Endpoint</h2>
+    <div class="endpoint"><span class="get">GET</span><a id="api-link" href="api/transactions.json">api/transactions.json</a></div>
+    <p class="muted" id="updated">Loading current data…</p>
+  </section>
+
+  <section class="card">
+    <h2>Quick test</h2>
+    <pre id="curl-example">curl api/transactions.json</pre>
+    <pre>const response = await fetch("api/transactions.json");
+const data = await response.json();
+console.log(data.transactions);</pre>
+  </section>
+
+  <section class="card">
+    <h2>Current snapshot</h2>
+    <div class="stats">
+      <div class="stat"><strong id="total">—</strong><span>Transactions</span></div>
+      <div class="stat"><strong id="payout">—</strong><span>Total payout</span></div>
+      <div class="stat"><strong id="sales">—</strong><span>Total sale amount</span></div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Latest 20 rows</h2>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Transaction</th><th>Offer</th><th>Date</th><th>Status</th><th>Payout</th><th>Sale</th><th>GEO</th></tr></thead>
+        <tbody id="rows"><tr><td colspan="7">Loading…</td></tr></tbody>
+      </table>
+    </div>
+  </section>
+</main>
+<script>
+  const API = new URL("api/transactions.json", location.href).href;
+  const link = document.getElementById("api-link");
+  link.href = API;
+  link.textContent = API;
+  document.getElementById("curl-example").textContent = "curl " + API;
+
+  fetch(API).then(response => {
+    if (!response.ok) throw new Error("HTTP " + response.status);
+    return response.json();
+  }).then(data => {
+    const items = data.transactions || [];
+    document.getElementById("updated").textContent = "Last synced: " + new Date(data.last_updated).toLocaleString();
+    document.getElementById("total").textContent = Number(data.total || 0).toLocaleString();
+    const sum = key => items.reduce((total, item) => total + (Number(item[key]) || 0), 0);
+    document.getElementById("payout").textContent = sum("payout").toLocaleString(undefined, {maximumFractionDigits: 2});
+    document.getElementById("sales").textContent = sum("sale_amount").toLocaleString(undefined, {maximumFractionDigits: 2});
+    const esc = value => String(value || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    const latest = items.slice(-20).reverse();
+    document.getElementById("rows").innerHTML = latest.length ? latest.map(item => `<tr>
+      <td><code>${esc(item.transaction_id)}</code></td><td>${esc(item.offer_id)}</td><td>${esc(item.datetime)}</td>
+      <td>${esc(item.status)}</td><td>${esc(item.payout)}</td><td>${esc(item.sale_amount)}</td><td>${esc(item.geo)}</td>
+    </tr>`).join("") : '<tr><td colspan="7">No transactions found.</td></tr>';
+  }).catch(error => {
+    document.getElementById("updated").textContent = "Could not load data: " + error.message;
+    document.getElementById("rows").innerHTML = '<tr><td colspan="7">Could not load data.</td></tr>';
+  });
+</script>
+</body>
+</html>
