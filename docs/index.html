@@ -61,8 +61,8 @@ console.log(data.transactions);</pre>
     <h2>Latest 20 rows</h2>
     <div class="table-wrap">
       <table>
-        <thead><tr><th>Transaction</th><th>Offer</th><th>Date</th><th>Status</th><th>Payout</th><th>Sale</th><th>GEO</th></tr></thead>
-        <tbody id="rows"><tr><td colspan="7">Loading…</td></tr></tbody>
+        <thead><tr><th>Transaction</th><th>Offer ID</th><th>Offer name</th><th>Date</th><th>Status</th><th>Payout</th><th>Sale</th><th>GEO</th></tr></thead>
+        <tbody id="rows"><tr><td colspan="8">Loading…</td></tr></tbody>
       </table>
     </div>
   </section>
@@ -87,12 +87,12 @@ console.log(data.transactions);</pre>
     const esc = value => String(value || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
     const latest = items.slice(-20).reverse();
     document.getElementById("rows").innerHTML = latest.length ? latest.map(item => `<tr>
-      <td><code>${esc(item.transaction_id)}</code></td><td>${esc(item.offer_id)}</td><td>${esc(item.datetime)}</td>
+      <td><code>${esc(item.transaction_id)}</code></td><td>${esc(item.offer_id)}</td><td>${esc(item.offer_name || "Unmapped")}</td><td>${esc(item.datetime)}</td>
       <td>${esc(item.status)}</td><td>${esc(item.payout)}</td><td>${esc(item.sale_amount)}</td><td>${esc(item.geo)}</td>
-    </tr>`).join("") : '<tr><td colspan="7">No transactions found.</td></tr>';
+    </tr>`).join("") : '<tr><td colspan="8">No transactions found.</td></tr>';
   }).catch(error => {
     document.getElementById("updated").textContent = "Could not load data: " + error.message;
-    document.getElementById("rows").innerHTML = '<tr><td colspan="7">Could not load data.</td></tr>';
+    document.getElementById("rows").innerHTML = '<tr><td colspan="8">Could not load data.</td></tr>';
   });
 </script>
 </body>
