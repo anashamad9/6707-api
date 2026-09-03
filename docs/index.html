@@ -16,6 +16,15 @@
     .endpoint, pre { overflow-x: auto; padding: 14px 16px; border: 1px solid #333a43; border-radius: 6px; background: #111317; font: .84rem/1.6 monospace; }
     .endpoint a { color: #6bb5ff; text-decoration: none; }
     .get { margin-right: 10px; padding: 2px 8px; border: 1px solid #24523c; border-radius: 4px; color: #66d89a; }
+    .guide { display: grid; gap: 14px; }
+    .step { display: grid; grid-template-columns: 30px 1fr; gap: 12px; align-items: start; }
+    .step-number { display: grid; width: 28px; height: 28px; place-items: center; border: 1px solid #24523c; border-radius: 50%; background: #13281f; color: #66d89a; font: .8rem monospace; }
+    .step strong { display: block; margin: 3px 0 5px; }
+    .step p { margin: 0; color: #9aa3ad; font-size: .88rem; line-height: 1.55; }
+    .copy-row { display: flex; gap: 8px; align-items: stretch; }
+    .copy-row .endpoint { flex: 1; }
+    button { padding: 0 16px; border: 1px solid #3b4652; border-radius: 6px; background: #242a31; color: #eceff3; cursor: pointer; font-weight: 600; }
+    button:hover { background: #303842; }
     .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
     .stat { padding: 16px; border: 1px solid #2c3239; border-radius: 7px; background: #111317; }
     .stat strong { display: block; font-size: 1.3rem; color: #fff; }
@@ -26,26 +35,44 @@
     th { color: #8d97a2; font-size: .72rem; text-transform: uppercase; }
     td { color: #cdd3da; }
     code { color: #ffb36b; }
-    @media (max-width: 640px) { body { padding: 28px 16px; } .stats { grid-template-columns: 1fr; } }
+    @media (max-width: 640px) { body { padding: 28px 16px; } .stats { grid-template-columns: 1fr; } .copy-row { flex-direction: column; } button { padding: 12px; } }
   </style>
 </head>
 <body>
 <main>
   <h1>6706 Transactions API <span class="pill">Auto Sync</span></h1>
-  <p class="intro">A public JSON feed for affiliate 6706 transaction data, refreshed from Google Sheets every 15 minutes.</p>
+  <p class="intro">A public JSON feed for affiliate 6706 transaction data, refreshed from Google Sheets once every day.</p>
 
   <section class="card">
     <h2>Endpoint</h2>
-    <div class="endpoint"><span class="get">GET</span><a id="api-link" href="api/transactions.json">api/transactions.json</a></div>
+    <div class="copy-row">
+      <div class="endpoint"><span class="get">GET</span><a id="api-link" href="api/transactions.json">api/transactions.json</a></div>
+      <button id="copy-button" type="button">Copy link</button>
+    </div>
     <p class="muted" id="updated">Loading current data…</p>
   </section>
 
   <section class="card">
-    <h2>Quick test</h2>
+    <h2>How to use this API</h2>
+    <div class="guide">
+      <div class="step"><span class="step-number">1</span><div><strong>Copy the endpoint link</strong><p>Use the button above. The endpoint is public and does not require a username, password, or API key.</p></div></div>
+      <div class="step"><span class="step-number">2</span><div><strong>Paste it into your app or reporting tool</strong><p>Use it anywhere that accepts a JSON URL, or fetch it with JavaScript, Python, Power BI, Looker Studio, or another data tool.</p></div></div>
+      <div class="step"><span class="step-number">3</span><div><strong>Read the transactions array</strong><p>The response has a <code>transactions</code> array. Each item includes the transaction ID, offer ID and name, status, payout, revenue, sale amount, date, and GEO.</p></div></div>
+      <div class="step"><span class="step-number">4</span><div><strong>Refresh once per day</strong><p>The source is checked automatically every day at 04:00 Amman time. The JSON changes only when the Google Sheet data changes.</p></div></div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Code examples</h2>
     <pre id="curl-example">curl api/transactions.json</pre>
     <pre>const response = await fetch("api/transactions.json");
 const data = await response.json();
 console.log(data.transactions);</pre>
+    <pre>import requests
+
+data = requests.get("YOUR_API_LINK").json()
+for transaction in data["transactions"]:
+    print(transaction["offer_name"], transaction["sale_amount"])</pre>
   </section>
 
   <section class="card">
@@ -73,6 +100,15 @@ console.log(data.transactions);</pre>
   link.href = API;
   link.textContent = API;
   document.getElementById("curl-example").textContent = "curl " + API;
+  document.getElementById("copy-button").addEventListener("click", async event => {
+    try {
+      await navigator.clipboard.writeText(API);
+      event.currentTarget.textContent = "Copied!";
+      setTimeout(() => { event.currentTarget.textContent = "Copy link"; }, 1600);
+    } catch {
+      window.prompt("Copy this API link:", API);
+    }
+  });
 
   fetch(API).then(response => {
     if (!response.ok) throw new Error("HTTP " + response.status);

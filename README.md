@@ -23,4 +23,6 @@ docs/api/transactions.json
 ```
 
 For GitHub Pages, enable Pages from the `docs/` folder on the `main` branch.
-The GitHub Action runs every 15 minutes and commits changed JSON data.
+The GitHub Action runs daily at 01:00 UTC (04:00 Asia/Amman) and commits the
+JSON only when the source data has changed. It can also be run manually from
+the repository's Actions tab.
