@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T05:41:00Z",
+  "last_updated": "2026-09-08T05:35:38Z",
   "source": "6706 Transactions",
   "sheet_id": "1KsSitjTjovlJegKIirqvpIwq00r9mwhg5hcKyC203Ec",
   "gid": "0",
@@ -7,7 +7,7 @@
   "mapping_source": "Mapping.xlsx",
   "mapped_offers": 131,
   "unmapped_offer_ids": [],
-  "total": 51739,
+  "total": 51972,
   "transactions": [
     {
       "transaction_id": "2283314",
@@ -716315,8 +716315,8 @@
       "revenue": "1.24",
       "sale_amount": "62",
       "affiliate_info1": "DALC",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716330,8 +716330,8 @@
       "revenue": "1.237333333",
       "sale_amount": "61.86666667",
       "affiliate_info1": "DALC",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716345,8 +716345,8 @@
       "revenue": "0.688",
       "sale_amount": "34.4",
       "affiliate_info1": "DNNN",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716360,8 +716360,8 @@
       "revenue": "2.898666667",
       "sale_amount": "144.9333333",
       "affiliate_info1": "DNNN",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716375,8 +716375,8 @@
       "revenue": "2.64",
       "sale_amount": "132",
       "affiliate_info1": "DNNN",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716390,8 +716390,8 @@
       "revenue": "3.578666667",
       "sale_amount": "178.9333333",
       "affiliate_info1": "DNNN",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716405,8 +716405,8 @@
       "revenue": "1.026666667",
       "sale_amount": "51.33333333",
       "affiliate_info1": "DNNN",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716420,8 +716420,8 @@
       "revenue": "1.674666667",
       "sale_amount": "83.73333333",
       "affiliate_info1": "DNNN",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716435,8 +716435,8 @@
       "revenue": "1.712",
       "sale_amount": "85.6",
       "affiliate_info1": "DNNN",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716450,8 +716450,8 @@
       "revenue": "2.282666667",
       "sale_amount": "114.1333333",
       "affiliate_info1": "DNNN",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716465,8 +716465,8 @@
       "revenue": "0.941333333",
       "sale_amount": "47.06666667",
       "affiliate_info1": "DNNN",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716480,8 +716480,8 @@
       "revenue": "0.325333333",
       "sale_amount": "16.26666667",
       "affiliate_info1": "RR56",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716495,8 +716495,8 @@
       "revenue": "0.194666667",
       "sale_amount": "9.733333333",
       "affiliate_info1": "RR56",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716510,8 +716510,8 @@
       "revenue": "0.448",
       "sale_amount": "22.4",
       "affiliate_info1": "RR56",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716525,8 +716525,8 @@
       "revenue": "1.616",
       "sale_amount": "80.8",
       "affiliate_info1": "RR56",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716540,8 +716540,8 @@
       "revenue": "0.122666667",
       "sale_amount": "6.133333333",
       "affiliate_info1": "RR56",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716555,8 +716555,8 @@
       "revenue": "1.173333333",
       "sale_amount": "58.66666667",
       "affiliate_info1": "RR56",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716570,8 +716570,8 @@
       "revenue": "0.328",
       "sale_amount": "16.4",
       "affiliate_info1": "RR56",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -716585,8 +716585,8 @@
       "revenue": "0.3",
       "sale_amount": "8.89",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716600,8 +716600,8 @@
       "revenue": "0.3",
       "sale_amount": "8.89",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716615,8 +716615,8 @@
       "revenue": "0.3",
       "sale_amount": "8.89",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716630,8 +716630,8 @@
       "revenue": "0.3",
       "sale_amount": "8.89",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716645,8 +716645,8 @@
       "revenue": "0.3",
       "sale_amount": "8.89",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716660,8 +716660,8 @@
       "revenue": "0.3",
       "sale_amount": "9.07",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716675,8 +716675,8 @@
       "revenue": "0.3",
       "sale_amount": "9.07",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716690,8 +716690,8 @@
       "revenue": "0.3",
       "sale_amount": "9.07",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716705,8 +716705,8 @@
       "revenue": "0.3",
       "sale_amount": "9.07",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716720,8 +716720,8 @@
       "revenue": "0.3",
       "sale_amount": "9.07",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716735,8 +716735,8 @@
       "revenue": "0.3",
       "sale_amount": "9.29",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716750,8 +716750,8 @@
       "revenue": "0.3",
       "sale_amount": "9.29",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716765,8 +716765,8 @@
       "revenue": "0.3",
       "sale_amount": "9.29",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716780,8 +716780,8 @@
       "revenue": "0.3",
       "sale_amount": "9.29",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716795,8 +716795,8 @@
       "revenue": "1.3",
       "sale_amount": "26.48",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716810,8 +716810,8 @@
       "revenue": "1.3",
       "sale_amount": "26.48",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716825,8 +716825,8 @@
       "revenue": "1.3",
       "sale_amount": "26.48",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716840,8 +716840,8 @@
       "revenue": "0.7",
       "sale_amount": "19.25",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716855,8 +716855,8 @@
       "revenue": "0.7",
       "sale_amount": "19.25",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716870,8 +716870,8 @@
       "revenue": "0.7",
       "sale_amount": "19.25",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716885,8 +716885,8 @@
       "revenue": "0.7",
       "sale_amount": "19.89",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716900,8 +716900,8 @@
       "revenue": "0.7",
       "sale_amount": "19.89",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716915,8 +716915,8 @@
       "revenue": "7",
       "sale_amount": "333.32",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716930,8 +716930,8 @@
       "revenue": "7",
       "sale_amount": "333.32",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716945,8 +716945,8 @@
       "revenue": "0.3",
       "sale_amount": "10.17",
       "affiliate_info1": "ALC53",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716960,8 +716960,8 @@
       "revenue": "0.3",
       "sale_amount": "10.17",
       "affiliate_info1": "ALC53",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716975,8 +716975,8 @@
       "revenue": "4.25",
       "sale_amount": "92.93",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -716990,8 +716990,8 @@
       "revenue": "4.25",
       "sale_amount": "92.93",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717005,8 +717005,8 @@
       "revenue": "1.3",
       "sale_amount": "29.75",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717020,8 +717020,8 @@
       "revenue": "0.3",
       "sale_amount": "8.45",
       "affiliate_info1": "ALC59",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717035,8 +717035,8 @@
       "revenue": "2.2",
       "sale_amount": "39.78",
       "affiliate_info1": "ALC54",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717050,8 +717050,8 @@
       "revenue": "0.7",
       "sale_amount": "17.9",
       "affiliate_info1": "ALC59",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717065,8 +717065,8 @@
       "revenue": "1.3",
       "sale_amount": "28.98",
       "affiliate_info1": "ALC56",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717080,8 +717080,8 @@
       "revenue": "3.25",
       "sale_amount": "65.33",
       "affiliate_info1": "DD87",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717095,8 +717095,8 @@
       "revenue": "7",
       "sale_amount": "139.61",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717110,8 +717110,8 @@
       "revenue": "0.7",
       "sale_amount": "18.41",
       "affiliate_info1": "ALC56",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717125,8 +717125,8 @@
       "revenue": "0.7",
       "sale_amount": "16.95",
       "affiliate_info1": "ALC53",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717140,8 +717140,8 @@
       "revenue": "0.3",
       "sale_amount": "13.41",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717155,8 +717155,8 @@
       "revenue": "0.7",
       "sale_amount": "17.79",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717170,8 +717170,8 @@
       "revenue": "0.3",
       "sale_amount": "8.84",
       "affiliate_info1": "ALC56",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717185,8 +717185,8 @@
       "revenue": "4.25",
       "sale_amount": "80.97",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717200,8 +717200,8 @@
       "revenue": "0.3",
       "sale_amount": "8.89",
       "affiliate_info1": "ALC51",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717215,8 +717215,8 @@
       "revenue": "0.3",
       "sale_amount": "10.77",
       "affiliate_info1": "DD87",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -717230,8 +717230,8 @@
       "revenue": "5.94",
       "sale_amount": "84.81",
       "affiliate_info1": "W112",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -717245,8 +717245,8 @@
       "revenue": "2",
       "sale_amount": "114.02",
       "affiliate_info1": "VV6K",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -717260,8 +717260,8 @@
       "revenue": "2",
       "sale_amount": "59.21",
       "affiliate_info1": "VVN5",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -717275,8 +717275,8 @@
       "revenue": "2",
       "sale_amount": "32.8",
       "affiliate_info1": "VVD1",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -717290,8 +717290,8 @@
       "revenue": "2",
       "sale_amount": "19.61",
       "affiliate_info1": "VV6K",
-      "geo": "kwt",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "kwt",
       "month": "8"
     },
     {
@@ -717305,8 +717305,8 @@
       "revenue": "8",
       "sale_amount": "56.03",
       "affiliate_info1": "VV6K",
-      "geo": "kwt",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "kwt",
       "month": "8"
     },
     {
@@ -717320,8 +717320,8 @@
       "revenue": "5.74",
       "sale_amount": "57.35",
       "affiliate_info1": "Z40",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717335,8 +717335,8 @@
       "revenue": "17.71",
       "sale_amount": "177.05",
       "affiliate_info1": "Z41",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717350,8 +717350,8 @@
       "revenue": "3.17",
       "sale_amount": "31.69",
       "affiliate_info1": "Z50",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717365,8 +717365,8 @@
       "revenue": "26.11",
       "sale_amount": "261.13",
       "affiliate_info1": "Z41",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717380,8 +717380,8 @@
       "revenue": "3.07",
       "sale_amount": "30.66",
       "affiliate_info1": "Z40",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717395,8 +717395,8 @@
       "revenue": "5.14",
       "sale_amount": "51.37",
       "affiliate_info1": "D88",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717410,8 +717410,8 @@
       "revenue": "6.4",
       "sale_amount": "64",
       "affiliate_info1": "RY",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717425,8 +717425,8 @@
       "revenue": "7.63",
       "sale_amount": "76.33",
       "affiliate_info1": "Z40",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717440,8 +717440,8 @@
       "revenue": "5.43",
       "sale_amount": "54.27",
       "affiliate_info1": "Z41",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717455,8 +717455,8 @@
       "revenue": "7.31",
       "sale_amount": "73.09",
       "affiliate_info1": "Z50",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717470,8 +717470,8 @@
       "revenue": "9.16",
       "sale_amount": "91.59",
       "affiliate_info1": "Z50",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717485,8 +717485,8 @@
       "revenue": "8.17",
       "sale_amount": "81.71",
       "affiliate_info1": "D88",
-      "geo": "BAH",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "BAH",
       "month": "8"
     },
     {
@@ -717500,8 +717500,8 @@
       "revenue": "8.01",
       "sale_amount": "80.12",
       "affiliate_info1": "Z40",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717515,8 +717515,8 @@
       "revenue": "4.84",
       "sale_amount": "48.36",
       "affiliate_info1": "Z50",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717530,8 +717530,8 @@
       "revenue": "7.52",
       "sale_amount": "125.39",
       "affiliate_info1": "DIGI33",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717545,8 +717545,8 @@
       "revenue": "9.29",
       "sale_amount": "154.88",
       "affiliate_info1": "DIGI32",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717560,8 +717560,8 @@
       "revenue": "1.34",
       "sale_amount": "13.38",
       "affiliate_info1": "ALC",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -717575,8 +717575,8 @@
       "revenue": "3.39",
       "sale_amount": "33.93",
       "affiliate_info1": "ALC",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -717590,8 +717590,8 @@
       "revenue": "19.49",
       "sale_amount": "194.88",
       "affiliate_info1": "ALC",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -717605,8 +717605,8 @@
       "revenue": "5.2",
       "sale_amount": "51.99",
       "affiliate_info1": "ALC",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -717620,8 +717620,8 @@
       "revenue": "4.79",
       "sale_amount": "47.88",
       "affiliate_info1": "ALC",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -717635,8 +717635,8 @@
       "revenue": "3.66",
       "sale_amount": "36.6",
       "affiliate_info1": "ALC",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -717650,8 +717650,8 @@
       "revenue": "1.82",
       "sale_amount": "18.21",
       "affiliate_info1": "ALC",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -717665,8 +717665,8 @@
       "revenue": "1.42",
       "sale_amount": "14.23",
       "affiliate_info1": "ALC",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -717680,8 +717680,8 @@
       "revenue": "10.38",
       "sale_amount": "103.8",
       "affiliate_info1": "ALC",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -717695,8 +717695,8 @@
       "revenue": "2.585333333",
       "sale_amount": "51.70666667",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717710,8 +717710,8 @@
       "revenue": "2.027866667",
       "sale_amount": "40.55733333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717725,8 +717725,8 @@
       "revenue": "3.368666667",
       "sale_amount": "67.37333333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717740,8 +717740,8 @@
       "revenue": "5.404",
       "sale_amount": "54.04",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "new",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717755,8 +717755,8 @@
       "revenue": "5.2984",
       "sale_amount": "105.968",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717770,8 +717770,8 @@
       "revenue": "0.7024",
       "sale_amount": "14.048",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717785,8 +717785,8 @@
       "revenue": "4.189866667",
       "sale_amount": "83.79733333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717800,8 +717800,8 @@
       "revenue": "0.803466667",
       "sale_amount": "16.06933333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717815,8 +717815,8 @@
       "revenue": "0.866",
       "sale_amount": "17.32",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717830,8 +717830,8 @@
       "revenue": "0.7512",
       "sale_amount": "7.512",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "new",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717845,8 +717845,8 @@
       "revenue": "1.231466667",
       "sale_amount": "24.62933333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717860,8 +717860,8 @@
       "revenue": "2.696266667",
       "sale_amount": "53.92533333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717875,8 +717875,8 @@
       "revenue": "4.6",
       "sale_amount": "92",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717890,8 +717890,8 @@
       "revenue": "5.496266667",
       "sale_amount": "109.9253333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717905,8 +717905,8 @@
       "revenue": "11.87306667",
       "sale_amount": "237.4613333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717920,8 +717920,8 @@
       "revenue": "0.386",
       "sale_amount": "7.72",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717935,8 +717935,8 @@
       "revenue": "1.398266667",
       "sale_amount": "27.96533333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717950,8 +717950,8 @@
       "revenue": "1.5444",
       "sale_amount": "30.888",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717965,8 +717965,8 @@
       "revenue": "4.6012",
       "sale_amount": "92.024",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717980,8 +717980,8 @@
       "revenue": "3.96",
       "sale_amount": "79.2",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -717995,8 +717995,8 @@
       "revenue": "0.438266667",
       "sale_amount": "8.765333333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718010,8 +718010,8 @@
       "revenue": "3.382",
       "sale_amount": "67.64",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718025,8 +718025,8 @@
       "revenue": "1.516666667",
       "sale_amount": "30.33333333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718040,8 +718040,8 @@
       "revenue": "1.43",
       "sale_amount": "28.6",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718055,8 +718055,8 @@
       "revenue": "1.809333333",
       "sale_amount": "36.18666667",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718070,8 +718070,8 @@
       "revenue": "3.116533333",
       "sale_amount": "62.33066667",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718085,8 +718085,8 @@
       "revenue": "2.150666667",
       "sale_amount": "43.01333333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718100,8 +718100,8 @@
       "revenue": "1.0916",
       "sale_amount": "21.832",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718115,8 +718115,8 @@
       "revenue": "15.34173333",
       "sale_amount": "306.8346667",
       "affiliate_info1": "BCC",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718130,8 +718130,8 @@
       "revenue": "0.943466667",
       "sale_amount": "37.73866667",
       "affiliate_info1": "MRM",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718145,8 +718145,8 @@
       "revenue": "0.8064",
       "sale_amount": "32.256",
       "affiliate_info1": "MRM",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718160,8 +718160,8 @@
       "revenue": "0.6848",
       "sale_amount": "27.392",
       "affiliate_info1": "MRM",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718175,8 +718175,8 @@
       "revenue": "1.158866667",
       "sale_amount": "46.35466667",
       "affiliate_info1": "MRM",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718190,8 +718190,8 @@
       "revenue": "3.3002",
       "sale_amount": "132.008",
       "affiliate_info1": "MRM",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718205,8 +718205,8 @@
       "revenue": "1.177666667",
       "sale_amount": "47.10666667",
       "affiliate_info1": "MRM",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718220,8 +718220,8 @@
       "revenue": "0.4516",
       "sale_amount": "18.064",
       "affiliate_info1": "MRM",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718235,8 +718235,8 @@
       "revenue": "0.7618",
       "sale_amount": "30.472",
       "affiliate_info1": "MRM",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718250,8 +718250,8 @@
       "revenue": "0.319066667",
       "sale_amount": "12.76266667",
       "affiliate_info1": "MRM",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718265,8 +718265,8 @@
       "revenue": "2.0838",
       "sale_amount": "83.352",
       "affiliate_info1": "MRM",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718280,8 +718280,8 @@
       "revenue": "1",
       "sale_amount": "0",
       "affiliate_info1": "U1",
-      "geo": "JOR",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "JOR",
       "month": "8"
     },
     {
@@ -718295,8 +718295,8 @@
       "revenue": "1",
       "sale_amount": "0",
       "affiliate_info1": "U1",
-      "geo": "JOR",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "JOR",
       "month": "8"
     },
     {
@@ -718310,8 +718310,8 @@
       "revenue": "1",
       "sale_amount": "0",
       "affiliate_info1": "U125",
-      "geo": "JOR",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "JOR",
       "month": "8"
     },
     {
@@ -718325,8 +718325,8 @@
       "revenue": "2",
       "sale_amount": "0",
       "affiliate_info1": "K196",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718340,8 +718340,8 @@
       "revenue": "2",
       "sale_amount": "0",
       "affiliate_info1": "K197",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718355,8 +718355,8 @@
       "revenue": "2",
       "sale_amount": "0",
       "affiliate_info1": "K197",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718370,8 +718370,8 @@
       "revenue": "2",
       "sale_amount": "0",
       "affiliate_info1": "KA1",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718385,8 +718385,8 @@
       "revenue": "2",
       "sale_amount": "0",
       "affiliate_info1": "KA2",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718400,8 +718400,8 @@
       "revenue": "385.6004266",
       "sale_amount": "501.2805546",
       "affiliate_info1": "RAGHDX",
-      "geo": "UAE",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "UAE",
       "month": "8"
     },
     {
@@ -718415,8 +718415,8 @@
       "revenue": "21",
       "sale_amount": "27.3",
       "affiliate_info1": "ALC",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718430,8 +718430,8 @@
       "revenue": "1",
       "sale_amount": "0",
       "affiliate_info1": "U1",
-      "geo": "JOR",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "JOR",
       "month": "8"
     },
     {
@@ -718445,8 +718445,8 @@
       "revenue": "1",
       "sale_amount": "0",
       "affiliate_info1": "U121",
-      "geo": "JOR",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "JOR",
       "month": "8"
     },
     {
@@ -718460,8 +718460,8 @@
       "revenue": "1",
       "sale_amount": "0",
       "affiliate_info1": "U121",
-      "geo": "JOR",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "JOR",
       "month": "8"
     },
     {
@@ -718475,8 +718475,8 @@
       "revenue": "1",
       "sale_amount": "0",
       "affiliate_info1": "U124",
-      "geo": "JOR",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "JOR",
       "month": "8"
     },
     {
@@ -718490,8 +718490,8 @@
       "revenue": "1",
       "sale_amount": "0",
       "affiliate_info1": "U124",
-      "geo": "JOR",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "JOR",
       "month": "8"
     },
     {
@@ -718505,8 +718505,8 @@
       "revenue": "1",
       "sale_amount": "0",
       "affiliate_info1": "U2",
-      "geo": "JOR",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "JOR",
       "month": "8"
     },
     {
@@ -718520,8 +718520,8 @@
       "revenue": "2",
       "sale_amount": "0",
       "affiliate_info1": "K195",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718535,8 +718535,8 @@
       "revenue": "2",
       "sale_amount": "0",
       "affiliate_info1": "K195",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718550,8 +718550,8 @@
       "revenue": "2",
       "sale_amount": "0",
       "affiliate_info1": "KA1",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718565,8 +718565,8 @@
       "revenue": "2",
       "sale_amount": "0",
       "affiliate_info1": "KA2",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -718580,8 +718580,8 @@
       "revenue": "5",
       "sale_amount": "0",
       "affiliate_info1": "D364",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -718595,8 +718595,8 @@
       "revenue": "5",
       "sale_amount": "0",
       "affiliate_info1": "D364",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -718610,8 +718610,8 @@
       "revenue": "2.632533333",
       "sale_amount": "52.65066667",
       "affiliate_info1": "FF77",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -718625,8 +718625,8 @@
       "revenue": "0.3",
       "sale_amount": "8.02",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718640,8 +718640,8 @@
       "revenue": "0.3",
       "sale_amount": "8.02",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718655,8 +718655,8 @@
       "revenue": "0.3",
       "sale_amount": "8.02",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718670,8 +718670,8 @@
       "revenue": "0.3",
       "sale_amount": "8.02",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718685,8 +718685,8 @@
       "revenue": "0.3",
       "sale_amount": "8.02",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718700,8 +718700,8 @@
       "revenue": "0.3",
       "sale_amount": "8.02",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718715,8 +718715,8 @@
       "revenue": "0.3",
       "sale_amount": "8.02",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718730,8 +718730,8 @@
       "revenue": "0.3",
       "sale_amount": "8.02",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718745,8 +718745,8 @@
       "revenue": "0.3",
       "sale_amount": "8.02",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718760,8 +718760,8 @@
       "revenue": "0.3",
       "sale_amount": "8.02",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718775,8 +718775,8 @@
       "revenue": "0.7",
       "sale_amount": "18.07",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718790,8 +718790,8 @@
       "revenue": "0.7",
       "sale_amount": "18.07",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718805,8 +718805,8 @@
       "revenue": "0.7",
       "sale_amount": "18.07",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718820,8 +718820,8 @@
       "revenue": "0.7",
       "sale_amount": "18.07",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718835,8 +718835,8 @@
       "revenue": "0.7",
       "sale_amount": "18.07",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718850,8 +718850,8 @@
       "revenue": "0.7",
       "sale_amount": "18.07",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718865,8 +718865,8 @@
       "revenue": "0.7",
       "sale_amount": "18.07",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718880,8 +718880,8 @@
       "revenue": "0.7",
       "sale_amount": "18.07",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718895,8 +718895,8 @@
       "revenue": "0.7",
       "sale_amount": "16.21",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718910,8 +718910,8 @@
       "revenue": "0.7",
       "sale_amount": "16.21",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718925,8 +718925,8 @@
       "revenue": "0.7",
       "sale_amount": "16.21",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718940,8 +718940,8 @@
       "revenue": "0.7",
       "sale_amount": "16.21",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718955,8 +718955,8 @@
       "revenue": "0.7",
       "sale_amount": "16.21",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718970,8 +718970,8 @@
       "revenue": "0.3",
       "sale_amount": "7.3",
       "affiliate_info1": "ALC53",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -718985,8 +718985,8 @@
       "revenue": "0.3",
       "sale_amount": "7.3",
       "affiliate_info1": "ALC53",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719000,8 +719000,8 @@
       "revenue": "0.3",
       "sale_amount": "7.3",
       "affiliate_info1": "ALC53",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719015,8 +719015,8 @@
       "revenue": "0.3",
       "sale_amount": "7.3",
       "affiliate_info1": "ALC53",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719030,8 +719030,8 @@
       "revenue": "0.3",
       "sale_amount": "7.3",
       "affiliate_info1": "ALC53",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719045,8 +719045,8 @@
       "revenue": "0.3",
       "sale_amount": "7.87",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719060,8 +719060,8 @@
       "revenue": "0.3",
       "sale_amount": "7.87",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719075,8 +719075,8 @@
       "revenue": "0.3",
       "sale_amount": "7.87",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719090,8 +719090,8 @@
       "revenue": "0.3",
       "sale_amount": "7.87",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719105,8 +719105,8 @@
       "revenue": "1.3",
       "sale_amount": "32.74",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719120,8 +719120,8 @@
       "revenue": "1.3",
       "sale_amount": "32.74",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719135,8 +719135,8 @@
       "revenue": "1.3",
       "sale_amount": "32.74",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719150,8 +719150,8 @@
       "revenue": "1.3",
       "sale_amount": "32.74",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719165,8 +719165,8 @@
       "revenue": "1.3",
       "sale_amount": "33.15",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719180,8 +719180,8 @@
       "revenue": "1.3",
       "sale_amount": "33.15",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719195,8 +719195,8 @@
       "revenue": "1.3",
       "sale_amount": "33.15",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719210,8 +719210,8 @@
       "revenue": "0.3",
       "sale_amount": "9.05",
       "affiliate_info1": "DD87",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719225,8 +719225,8 @@
       "revenue": "0.3",
       "sale_amount": "9.05",
       "affiliate_info1": "DD87",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719240,8 +719240,8 @@
       "revenue": "0.3",
       "sale_amount": "9.05",
       "affiliate_info1": "DD87",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719255,8 +719255,8 @@
       "revenue": "0.3",
       "sale_amount": "9.99",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719270,8 +719270,8 @@
       "revenue": "0.3",
       "sale_amount": "9.99",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719285,8 +719285,8 @@
       "revenue": "0.3",
       "sale_amount": "9.99",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719300,8 +719300,8 @@
       "revenue": "2.2",
       "sale_amount": "47.88",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719315,8 +719315,8 @@
       "revenue": "2.2",
       "sale_amount": "47.88",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719330,8 +719330,8 @@
       "revenue": "0.3",
       "sale_amount": "11.97",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719345,8 +719345,8 @@
       "revenue": "0.3",
       "sale_amount": "11.97",
       "affiliate_info1": "ALC32",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719360,8 +719360,8 @@
       "revenue": "1.3",
       "sale_amount": "24.11",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719375,8 +719375,8 @@
       "revenue": "1.3",
       "sale_amount": "24.11",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719390,8 +719390,8 @@
       "revenue": "1.3",
       "sale_amount": "28.76",
       "affiliate_info1": "ALC52",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719405,8 +719405,8 @@
       "revenue": "0.3",
       "sale_amount": "12.52",
       "affiliate_info1": "ALC56",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719420,8 +719420,8 @@
       "revenue": "1.3",
       "sale_amount": "29.83",
       "affiliate_info1": "ALC53",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719435,8 +719435,8 @@
       "revenue": "7",
       "sale_amount": "120.89",
       "affiliate_info1": "ALC44",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719450,8 +719450,8 @@
       "revenue": "4.25",
       "sale_amount": "82.45",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719465,8 +719465,8 @@
       "revenue": "0.7",
       "sale_amount": "15.86",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719480,8 +719480,8 @@
       "revenue": "0.7",
       "sale_amount": "20.52",
       "affiliate_info1": "ALC56",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719495,8 +719495,8 @@
       "revenue": "2.2",
       "sale_amount": "48.62",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719510,8 +719510,8 @@
       "revenue": "3.25",
       "sale_amount": "62.78",
       "affiliate_info1": "ALC42",
-      "geo": "egy",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "egy",
       "month": "8"
     },
     {
@@ -719525,8 +719525,8 @@
       "revenue": "14.45",
       "sale_amount": "206.47",
       "affiliate_info1": "ALC4",
-      "geo": "omn",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "omn",
       "month": "8"
     },
     {
@@ -719540,8 +719540,8 @@
       "revenue": "7.77",
       "sale_amount": "111.03",
       "affiliate_info1": "W112",
-      "geo": "uae",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "uae",
       "month": "8"
     },
     {
@@ -719555,8 +719555,8 @@
       "revenue": "7.53",
       "sale_amount": "107.55",
       "affiliate_info1": "W112",
-      "geo": "uae",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "uae",
       "month": "8"
     },
     {
@@ -719570,8 +719570,8 @@
       "revenue": "4",
       "sale_amount": "65.33",
       "affiliate_info1": "VAAK9",
-      "geo": "uae",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "uae",
       "month": "8"
     },
     {
@@ -719585,8 +719585,8 @@
       "revenue": "2",
       "sale_amount": "245.42",
       "affiliate_info1": "VV6K",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -719600,8 +719600,8 @@
       "revenue": "2",
       "sale_amount": "82.98",
       "affiliate_info1": "VV6K",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -719615,8 +719615,8 @@
       "revenue": "2",
       "sale_amount": "71.97",
       "affiliate_info1": "VVR4",
-      "geo": "ksa",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -719630,8 +719630,8 @@
       "revenue": "2",
       "sale_amount": "59.14",
       "affiliate_info1": "VV6K",
-      "geo": "kwt",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "kwt",
       "month": "8"
     },
     {
@@ -719645,8 +719645,8 @@
       "revenue": "2",
       "sale_amount": "52.91",
       "affiliate_info1": "VV6K",
-      "geo": "kwt",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "kwt",
       "month": "8"
     },
     {
@@ -719660,8 +719660,8 @@
       "revenue": "2",
       "sale_amount": "19.7",
       "affiliate_info1": "VV6K",
-      "geo": "uae",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "uae",
       "month": "8"
     },
     {
@@ -719675,8 +719675,8 @@
       "revenue": "2",
       "sale_amount": "34.48",
       "affiliate_info1": "VVR4",
-      "geo": "uae",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "uae",
       "month": "8"
     },
     {
@@ -719690,8 +719690,8 @@
       "revenue": "2",
       "sale_amount": "24.38",
       "affiliate_info1": "VV6K",
-      "geo": "uae",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "uae",
       "month": "8"
     },
     {
@@ -719705,8 +719705,8 @@
       "revenue": "2",
       "sale_amount": "108.68",
       "affiliate_info1": "VV6K",
-      "geo": "uae",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "uae",
       "month": "8"
     },
     {
@@ -719720,8 +719720,8 @@
       "revenue": "19.53678474",
       "sale_amount": "195.3678474",
       "affiliate_info1": "R86",
-      "geo": "qtr",
-      "sales_status": "Returning Customer",
+      "geo": "",
+      "sales_status": "qtr",
       "month": "8"
     },
     {
@@ -719735,8 +719735,8 @@
       "revenue": "6.430517711",
       "sale_amount": "64.30517711",
       "affiliate_info1": "R85",
-      "geo": "ksa",
-      "sales_status": "Returning Customer",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -719750,8 +719750,8 @@
       "revenue": "5.17",
       "sale_amount": "51.65",
       "affiliate_info1": "Z47",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -719765,8 +719765,8 @@
       "revenue": "27.25",
       "sale_amount": "272.51",
       "affiliate_info1": "ZF",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -719780,8 +719780,8 @@
       "revenue": "1.81",
       "sale_amount": "18.13",
       "affiliate_info1": "Z41",
-      "geo": "BAH",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "BAH",
       "month": "8"
     },
     {
@@ -719795,8 +719795,8 @@
       "revenue": "5.81",
       "sale_amount": "58.08",
       "affiliate_info1": "Z47",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -719810,8 +719810,8 @@
       "revenue": "7.26",
       "sale_amount": "72.61",
       "affiliate_info1": "Z47",
-      "geo": "BAH",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "BAH",
       "month": "8"
     },
     {
@@ -719825,8 +719825,8 @@
       "revenue": "11.27",
       "sale_amount": "112.71",
       "affiliate_info1": "ZF",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -719840,8 +719840,8 @@
       "revenue": "1.63",
       "sale_amount": "16.26",
       "affiliate_info1": "ZF",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -719855,8 +719855,8 @@
       "revenue": "3.46",
       "sale_amount": "34.59",
       "affiliate_info1": "Z50",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -719870,8 +719870,8 @@
       "revenue": "19.67",
       "sale_amount": "196.67",
       "affiliate_info1": "Z50",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -719885,8 +719885,8 @@
       "revenue": "6.49",
       "sale_amount": "64.94",
       "affiliate_info1": "ZF",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -719900,8 +719900,8 @@
       "revenue": "10.17",
       "sale_amount": "169.47",
       "affiliate_info1": "DGR69",
-      "geo": "Kuwait",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "Kuwait",
       "month": "8"
     },
     {
@@ -719915,8 +719915,8 @@
       "revenue": "0.5",
       "sale_amount": "0",
       "affiliate_info1": "GY45",
-      "geo": "ksa",
-      "sales_status": "returning",
+      "geo": "",
+      "sales_status": "ksa",
       "month": "8"
     },
     {
@@ -719930,8 +719930,8 @@
       "revenue": "1.252266667",
       "sale_amount": "25.04533333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -719945,8 +719945,8 @@
       "revenue": "6.017733333",
       "sale_amount": "120.3546667",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -719960,8 +719960,8 @@
       "revenue": "0.6052",
       "sale_amount": "12.104",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -719975,8 +719975,8 @@
       "revenue": "2.470133333",
       "sale_amount": "49.40266667",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -719990,8 +719990,8 @@
       "revenue": "6.240533333",
       "sale_amount": "124.8106667",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720005,8 +720005,8 @@
       "revenue": "2.674",
       "sale_amount": "53.48",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720020,8 +720020,8 @@
       "revenue": "2.525733333",
       "sale_amount": "50.51466667",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720035,8 +720035,8 @@
       "revenue": "0.781333333",
       "sale_amount": "15.62666667",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720050,8 +720050,8 @@
       "revenue": "7.6064",
       "sale_amount": "152.128",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720065,8 +720065,8 @@
       "revenue": "1.5236",
       "sale_amount": "30.472",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720080,8 +720080,8 @@
       "revenue": "2.001733333",
       "sale_amount": "40.03466667",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720095,8 +720095,8 @@
       "revenue": "2.742266667",
       "sale_amount": "54.84533333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720110,8 +720110,8 @@
       "revenue": "1.902",
       "sale_amount": "38.04",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720125,8 +720125,8 @@
       "revenue": "3.187866667",
       "sale_amount": "63.75733333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720140,8 +720140,8 @@
       "revenue": "3.826666667",
       "sale_amount": "76.53333333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720155,8 +720155,8 @@
       "revenue": "8.9148",
       "sale_amount": "178.296",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720170,8 +720170,8 @@
       "revenue": "1.4148",
       "sale_amount": "28.296",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720185,8 +720185,8 @@
       "revenue": "3.4812",
       "sale_amount": "69.624",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720200,8 +720200,8 @@
       "revenue": "2.601866667",
       "sale_amount": "52.03733333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720215,8 +720215,8 @@
       "revenue": "3.595333333",
       "sale_amount": "71.90666667",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720230,8 +720230,8 @@
       "revenue": "3.0096",
       "sale_amount": "60.192",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720245,8 +720245,8 @@
       "revenue": "3.073066667",
       "sale_amount": "61.46133333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720260,8 +720260,8 @@
       "revenue": "0.169066667",
       "sale_amount": "3.381333333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720275,8 +720275,8 @@
       "revenue": "1.9368",
       "sale_amount": "38.736",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720290,8 +720290,8 @@
       "revenue": "1.220933333",
       "sale_amount": "24.41866667",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720305,8 +720305,8 @@
       "revenue": "2.432",
       "sale_amount": "48.64",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720320,8 +720320,8 @@
       "revenue": "2.771066667",
       "sale_amount": "55.42133333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720335,8 +720335,8 @@
       "revenue": "2.8544",
       "sale_amount": "57.088",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720350,8 +720350,8 @@
       "revenue": "4.684666667",
       "sale_amount": "93.69333333",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720365,8 +720365,8 @@
       "revenue": "4.8092",
       "sale_amount": "96.184",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720380,8 +720380,8 @@
       "revenue": "1.252133333",
       "sale_amount": "25.04266667",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720395,8 +720395,8 @@
       "revenue": "1.585333333",
       "sale_amount": "31.70666667",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720410,8 +720410,8 @@
       "revenue": "2.368",
       "sale_amount": "47.36",
       "affiliate_info1": "SSA",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720425,8 +720425,8 @@
       "revenue": "0.678266667",
       "sale_amount": "13.56533333",
       "affiliate_info1": "BCC",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720440,8 +720440,8 @@
       "revenue": "1.4836",
       "sale_amount": "29.672",
       "affiliate_info1": "BCC",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720455,8 +720455,8 @@
       "revenue": "2.651",
       "sale_amount": "106.04",
       "affiliate_info1": "MRM",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720470,8 +720470,8 @@
       "revenue": "2.501733333",
       "sale_amount": "100.0693333",
       "affiliate_info1": "MRM",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720485,8 +720485,8 @@
       "revenue": "1.138",
       "sale_amount": "45.52",
       "affiliate_info1": "MRM",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720500,8 +720500,8 @@
       "revenue": "1.091733333",
       "sale_amount": "43.66933333",
       "affiliate_info1": "MRM",
-      "geo": "KSA",
-      "sales_status": "old",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720515,8 +720515,8 @@
       "revenue": "3.34",
       "sale_amount": "33.42",
       "affiliate_info1": "DR30",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720530,8 +720530,8 @@
       "revenue": "477.583434",
       "sale_amount": "620.8584642",
       "affiliate_info1": "RAGHDX",
-      "geo": "UAE",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "UAE",
       "month": "8"
     },
     {
@@ -720545,8 +720545,8 @@
       "revenue": "4",
       "sale_amount": "5.2",
       "affiliate_info1": "ALC",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720560,8 +720560,8 @@
       "revenue": "2",
       "sale_amount": "0",
       "affiliate_info1": "K198",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720575,8 +720575,8 @@
       "revenue": "2",
       "sale_amount": "0",
       "affiliate_info1": "KA1",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720590,8 +720590,8 @@
       "revenue": "2",
       "sale_amount": "0",
       "affiliate_info1": "KA1",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720605,8 +720605,8 @@
       "revenue": "2",
       "sale_amount": "0",
       "affiliate_info1": "KA1",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720620,8 +720620,8 @@
       "revenue": "2",
       "sale_amount": "0",
       "affiliate_info1": "KA2",
-      "geo": "KSA",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "KSA",
       "month": "8"
     },
     {
@@ -720635,8 +720635,8 @@
       "revenue": "1",
       "sale_amount": "0",
       "affiliate_info1": "U1",
-      "geo": "JOR",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "JOR",
       "month": "8"
     },
     {
@@ -720650,8 +720650,8 @@
       "revenue": "1",
       "sale_amount": "0",
       "affiliate_info1": "U1",
-      "geo": "JOR",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "JOR",
       "month": "8"
     },
     {
@@ -720665,8 +720665,8 @@
       "revenue": "1",
       "sale_amount": "0",
       "affiliate_info1": "U124",
-      "geo": "JOR",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "JOR",
       "month": "8"
     },
     {
@@ -720680,8 +720680,8 @@
       "revenue": "1",
       "sale_amount": "0",
       "affiliate_info1": "U125",
-      "geo": "JOR",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "JOR",
       "month": "8"
     },
     {
@@ -720695,8 +720695,8 @@
       "revenue": "1",
       "sale_amount": "0",
       "affiliate_info1": "U64",
-      "geo": "JOR",
-      "sales_status": "No Info",
+      "geo": "",
+      "sales_status": "JOR",
       "month": "8"
     },
     {
@@ -776092,6 +776092,3501 @@
       "affiliate_info1": "MRM",
       "geo": "KSA",
       "sales_status": "new",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824555",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "0.57",
+      "revenue": "0.76",
+      "sale_amount": "120.93",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824578",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "0.9",
+      "revenue": "1.2",
+      "sale_amount": "35.53",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824583",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "0.45",
+      "revenue": "0.6",
+      "sale_amount": "12.1",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824593",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "0.16",
+      "revenue": "0.21",
+      "sale_amount": "4.8",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824594",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "1.87",
+      "revenue": "2.49",
+      "sale_amount": "95.48",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Baby Milk & Diapers",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824599",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "3.51",
+      "revenue": "4.68",
+      "sale_amount": "107.64",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824609",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "1.23",
+      "revenue": "1.64",
+      "sale_amount": "37.65",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824626",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "0.65",
+      "revenue": "0.86",
+      "sale_amount": "19.87",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824629",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "0.63",
+      "revenue": "0.84",
+      "sale_amount": "28.04",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824630",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "2.66",
+      "revenue": "3.55",
+      "sale_amount": "70.93",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824635",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "0.22",
+      "revenue": "0.3",
+      "sale_amount": "19.85",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824642",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "0.49",
+      "revenue": "0.65",
+      "sale_amount": "27.36",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824645",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "0.16",
+      "revenue": "0.21",
+      "sale_amount": "4.8",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824691",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/29/2026",
+      "status": "pending",
+      "payout": "0.3",
+      "revenue": "0.4",
+      "sale_amount": "7.92",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824694",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/29/2026",
+      "status": "pending",
+      "payout": "0.7",
+      "revenue": "0.93",
+      "sale_amount": "21.4",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824700",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/29/2026",
+      "status": "pending",
+      "payout": "0.78",
+      "revenue": "1.04",
+      "sale_amount": "65.64",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824709",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/29/2026",
+      "status": "pending",
+      "payout": "0.36",
+      "revenue": "0.48",
+      "sale_amount": "11.01",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824712",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/29/2026",
+      "status": "pending",
+      "payout": "3.51",
+      "revenue": "4.68",
+      "sale_amount": "107.64",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824747",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/30/2026",
+      "status": "pending",
+      "payout": "2.55",
+      "revenue": "3.4",
+      "sale_amount": "78.25",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824754",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/30/2026",
+      "status": "pending",
+      "payout": "0.36",
+      "revenue": "0.48",
+      "sale_amount": "11.04",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824775",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/30/2026",
+      "status": "pending",
+      "payout": "3.37",
+      "revenue": "4.49",
+      "sale_amount": "89.76",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824789",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/30/2026",
+      "status": "pending",
+      "payout": "0.88",
+      "revenue": "1.18",
+      "sale_amount": "27.05",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824795",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/31/2026",
+      "status": "pending",
+      "payout": "1.23",
+      "revenue": "1.64",
+      "sale_amount": "37.79",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824796",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/31/2026",
+      "status": "pending",
+      "payout": "0.22",
+      "revenue": "0.29",
+      "sale_amount": "11.13",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Baby Milk & Diapers",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824797",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/31/2026",
+      "status": "pending",
+      "payout": "1.15",
+      "revenue": "1.54",
+      "sale_amount": "31.74",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824805",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/31/2026",
+      "status": "pending",
+      "payout": "1.7",
+      "revenue": "2.27",
+      "sale_amount": "45.36",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824806",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/31/2026",
+      "status": "pending",
+      "payout": "0.58",
+      "revenue": "0.78",
+      "sale_amount": "15.54",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824808",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/31/2026",
+      "status": "pending",
+      "payout": "0.1",
+      "revenue": "0.13",
+      "sale_amount": "12.3",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824809",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/31/2026",
+      "status": "pending",
+      "payout": "0.82",
+      "revenue": "1.09",
+      "sale_amount": "41.82",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Baby Milk & Diapers",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824811",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/31/2026",
+      "status": "pending",
+      "payout": "1.76",
+      "revenue": "2.34",
+      "sale_amount": "52.75",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824813",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/31/2026",
+      "status": "pending",
+      "payout": "0.12",
+      "revenue": "0.16",
+      "sale_amount": "26.47",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824831",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/31/2026",
+      "status": "pending",
+      "payout": "0.14",
+      "revenue": "0.19",
+      "sale_amount": "8.25",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824847",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "0.5",
+      "revenue": "0.67",
+      "sale_amount": "15.32",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824851",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/28/2026",
+      "status": "pending",
+      "payout": "2.8",
+      "revenue": "3.73",
+      "sale_amount": "78.97",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824855",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/29/2026",
+      "status": "pending",
+      "payout": "0.48",
+      "revenue": "0.64",
+      "sale_amount": "22.86",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824859",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/29/2026",
+      "status": "pending",
+      "payout": "0.75",
+      "revenue": "1",
+      "sale_amount": "36.88",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824875",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/31/2026",
+      "status": "pending",
+      "payout": "0.75",
+      "revenue": "1.01",
+      "sale_amount": "50.6",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824877",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "8/31/2026",
+      "status": "pending",
+      "payout": "1.75",
+      "revenue": "2.33",
+      "sale_amount": "53.54",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2824904",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "0.28",
+      "revenue": "0.37",
+      "sale_amount": "8.49",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824917",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "0.72",
+      "revenue": "0.96",
+      "sale_amount": "21.99",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824918",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "1.76",
+      "revenue": "2.34",
+      "sale_amount": "46.8",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824919",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "1.24",
+      "revenue": "1.65",
+      "sale_amount": "32.93",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824924",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "0.47",
+      "revenue": "0.63",
+      "sale_amount": "12.6",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824925",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "2.11",
+      "revenue": "2.81",
+      "sale_amount": "64.73",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824937",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "1.14",
+      "revenue": "1.52",
+      "sale_amount": "34.87",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824939",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "0.39",
+      "revenue": "0.52",
+      "sale_amount": "11.91",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824940",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "1.17",
+      "revenue": "1.56",
+      "sale_amount": "35.99",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824959",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "1.64",
+      "revenue": "2.19",
+      "sale_amount": "43.85",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824960",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "1.75",
+      "revenue": "2.34",
+      "sale_amount": "89.55",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Baby Milk & Diapers",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824967",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "3.48",
+      "revenue": "4.64",
+      "sale_amount": "106.61",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824990",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "0.93",
+      "revenue": "1.23",
+      "sale_amount": "28.39",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824992",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "4.64",
+      "revenue": "6.19",
+      "sale_amount": "142.38",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824993",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "0.77",
+      "revenue": "1.03",
+      "sale_amount": "39.33",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Baby Milk & Diapers",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824995",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "0.28",
+      "revenue": "0.38",
+      "sale_amount": "8.64",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2824997",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "0.95",
+      "revenue": "1.26",
+      "sale_amount": "29.06",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825000",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "6.29",
+      "revenue": "8.39",
+      "sale_amount": "167.76",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825005",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "1.57",
+      "revenue": "2.1",
+      "sale_amount": "48.19",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825018",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "0.39",
+      "revenue": "0.52",
+      "sale_amount": "12.05",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825019",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "4.66",
+      "revenue": "6.21",
+      "sale_amount": "134.83",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825034",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "0.73",
+      "revenue": "0.97",
+      "sale_amount": "22.23",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825044",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "5.77",
+      "revenue": "7.69",
+      "sale_amount": "178.96",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825049",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "0.16",
+      "revenue": "0.21",
+      "sale_amount": "4.93",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825082",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/3/2026",
+      "status": "pending",
+      "payout": "1.4",
+      "revenue": "1.86",
+      "sale_amount": "63.61",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825088",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/3/2026",
+      "status": "pending",
+      "payout": "2.2",
+      "revenue": "2.93",
+      "sale_amount": "58.68",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825089",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/3/2026",
+      "status": "pending",
+      "payout": "0.15",
+      "revenue": "0.2",
+      "sale_amount": "12.8",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825090",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/3/2026",
+      "status": "pending",
+      "payout": "0.15",
+      "revenue": "0.2",
+      "sale_amount": "7.67",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Baby Milk & Diapers",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825098",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "0.78",
+      "revenue": "1.04",
+      "sale_amount": "29.19",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825099",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "1.75",
+      "revenue": "2.34",
+      "sale_amount": "53.75",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825100",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "0.38",
+      "revenue": "0.51",
+      "sale_amount": "15.03",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825101",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "1.8",
+      "revenue": "2.39",
+      "sale_amount": "47.88",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825103",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "3.23",
+      "revenue": "4.31",
+      "sale_amount": "86.17",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825106",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "0.95",
+      "revenue": "1.26",
+      "sale_amount": "29.07",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825110",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "0.87",
+      "revenue": "1.16",
+      "sale_amount": "26.6",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825111",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "2.84",
+      "revenue": "3.79",
+      "sale_amount": "87.17",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825114",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "1.47",
+      "revenue": "1.96",
+      "sale_amount": "39.15",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825115",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "0.32",
+      "revenue": "0.42",
+      "sale_amount": "9.66",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825117",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/3/2026",
+      "status": "pending",
+      "payout": "0.86",
+      "revenue": "1.15",
+      "sale_amount": "26.51",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825118",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/3/2026",
+      "status": "pending",
+      "payout": "0.28",
+      "revenue": "0.37",
+      "sale_amount": "7.44",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Any",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825119",
+      "offer_id": "1394",
+      "offer_name": "United Pharmacy",
+      "affiliate_id": "6706",
+      "datetime": "9/3/2026",
+      "status": "pending",
+      "payout": "1.39",
+      "revenue": "1.85",
+      "sale_amount": "70.99",
+      "affiliate_info1": "ALC1",
+      "geo": "ksa",
+      "sales_status": "Baby Milk & Diapers",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825123",
+      "offer_id": "1264",
+      "offer_name": "Trendyol",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "281.9253468",
+      "revenue": "316.7700526",
+      "sale_amount": "411.8010684",
+      "affiliate_info1": "RAGHDX",
+      "geo": "UAE",
+      "sales_status": "UAE",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825157",
+      "offer_id": "1264",
+      "offer_name": "Trendyol",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "15.13",
+      "revenue": "17",
+      "sale_amount": "22.1",
+      "affiliate_info1": "ALC",
+      "geo": "KSA",
+      "sales_status": "KSA",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825177",
+      "offer_id": "1260",
+      "offer_name": "Jeeny Ksa",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "1.8",
+      "revenue": "2",
+      "sale_amount": "0",
+      "affiliate_info1": "K182",
+      "geo": "KSA",
+      "sales_status": "KSA",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825182",
+      "offer_id": "1260",
+      "offer_name": "Jeeny Ksa",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "1.8",
+      "revenue": "2",
+      "sale_amount": "0",
+      "affiliate_info1": "K195",
+      "geo": "KSA",
+      "sales_status": "KSA",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825183",
+      "offer_id": "1260",
+      "offer_name": "Jeeny Ksa",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "1.8",
+      "revenue": "2",
+      "sale_amount": "0",
+      "affiliate_info1": "K195",
+      "geo": "KSA",
+      "sales_status": "KSA",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825184",
+      "offer_id": "1260",
+      "offer_name": "Jeeny Ksa",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "1.8",
+      "revenue": "2",
+      "sale_amount": "0",
+      "affiliate_info1": "K198",
+      "geo": "KSA",
+      "sales_status": "KSA",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825185",
+      "offer_id": "1260",
+      "offer_name": "Jeeny Ksa",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "1.8",
+      "revenue": "2",
+      "sale_amount": "0",
+      "affiliate_info1": "K198",
+      "geo": "KSA",
+      "sales_status": "KSA",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825186",
+      "offer_id": "1260",
+      "offer_name": "Jeeny Ksa",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "1.8",
+      "revenue": "2",
+      "sale_amount": "0",
+      "affiliate_info1": "K198",
+      "geo": "KSA",
+      "sales_status": "KSA",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825187",
+      "offer_id": "1260",
+      "offer_name": "Jeeny Ksa",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "1.8",
+      "revenue": "2",
+      "sale_amount": "0",
+      "affiliate_info1": "K198",
+      "geo": "KSA",
+      "sales_status": "KSA",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825188",
+      "offer_id": "1260",
+      "offer_name": "Jeeny Ksa",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "1.8",
+      "revenue": "2",
+      "sale_amount": "0",
+      "affiliate_info1": "K198",
+      "geo": "KSA",
+      "sales_status": "KSA",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825189",
+      "offer_id": "1260",
+      "offer_name": "Jeeny Ksa",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "1.8",
+      "revenue": "2",
+      "sale_amount": "0",
+      "affiliate_info1": "K198",
+      "geo": "KSA",
+      "sales_status": "KSA",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825190",
+      "offer_id": "1260",
+      "offer_name": "Jeeny Ksa",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "1.8",
+      "revenue": "2",
+      "sale_amount": "0",
+      "affiliate_info1": "KA1",
+      "geo": "KSA",
+      "sales_status": "KSA",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825191",
+      "offer_id": "1260",
+      "offer_name": "Jeeny Ksa",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "1.8",
+      "revenue": "2",
+      "sale_amount": "0",
+      "affiliate_info1": "KA1",
+      "geo": "KSA",
+      "sales_status": "KSA",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825192",
+      "offer_id": "1260",
+      "offer_name": "Jeeny Ksa",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "1.8",
+      "revenue": "2",
+      "sale_amount": "0",
+      "affiliate_info1": "KA1",
+      "geo": "KSA",
+      "sales_status": "KSA",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825274",
+      "offer_id": "1261",
+      "offer_name": "Jeeny Jo",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "0.8",
+      "revenue": "1",
+      "sale_amount": "0",
+      "affiliate_info1": "U2",
+      "geo": "JOR",
+      "sales_status": "JOR",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825426",
+      "offer_id": "1329",
+      "offer_name": "Dabdoob",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "8.73",
+      "revenue": "9.7",
+      "sale_amount": "96.99",
+      "affiliate_info1": "DR30",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825566",
+      "offer_id": "1146",
+      "offer_name": "Mothercare",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "2.76",
+      "revenue": "4",
+      "sale_amount": "1357.92",
+      "affiliate_info1": "VAAK9",
+      "geo": "kwt",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825567",
+      "offer_id": "1132",
+      "offer_name": "H&M",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.7",
+      "revenue": "2",
+      "sale_amount": "23.11",
+      "affiliate_info1": "VVN5",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825568",
+      "offer_id": "1132",
+      "offer_name": "H&M",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.7",
+      "revenue": "2",
+      "sale_amount": "66.03",
+      "affiliate_info1": "VV6K",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825569",
+      "offer_id": "1132",
+      "offer_name": "H&M",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.7",
+      "revenue": "2",
+      "sale_amount": "21.79",
+      "affiliate_info1": "VVN5",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825570",
+      "offer_id": "1132",
+      "offer_name": "H&M",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.7",
+      "revenue": "2",
+      "sale_amount": "33.02",
+      "affiliate_info1": "VVN5",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825571",
+      "offer_id": "1132",
+      "offer_name": "H&M",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.7",
+      "revenue": "2",
+      "sale_amount": "239.26",
+      "affiliate_info1": "VVN5",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825575",
+      "offer_id": "1132",
+      "offer_name": "H&M",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.7",
+      "revenue": "2",
+      "sale_amount": "51.73",
+      "affiliate_info1": "VVN5",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825578",
+      "offer_id": "1132",
+      "offer_name": "H&M",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.7",
+      "revenue": "2",
+      "sale_amount": "21.72",
+      "affiliate_info1": "VVN5",
+      "geo": "kwt",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825579",
+      "offer_id": "1132",
+      "offer_name": "H&M",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.7",
+      "revenue": "2",
+      "sale_amount": "17.14",
+      "affiliate_info1": "VVN5",
+      "geo": "kwt",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825580",
+      "offer_id": "1132",
+      "offer_name": "H&M",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.7",
+      "revenue": "2",
+      "sale_amount": "308.39",
+      "affiliate_info1": "VVN5",
+      "geo": "kwt",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825581",
+      "offer_id": "1132",
+      "offer_name": "H&M",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "6.8",
+      "revenue": "8",
+      "sale_amount": "67.28",
+      "affiliate_info1": "VVN5",
+      "geo": "kwt",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825582",
+      "offer_id": "1132",
+      "offer_name": "H&M",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.7",
+      "revenue": "2",
+      "sale_amount": "261.62",
+      "affiliate_info1": "VVN5",
+      "geo": "kwt",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825583",
+      "offer_id": "1132",
+      "offer_name": "H&M",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.7",
+      "revenue": "2",
+      "sale_amount": "436.24",
+      "affiliate_info1": "VZCC",
+      "geo": "kwt",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825586",
+      "offer_id": "1132",
+      "offer_name": "H&M",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.7",
+      "revenue": "2",
+      "sale_amount": "35.71",
+      "affiliate_info1": "VVN5",
+      "geo": "uae",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825605",
+      "offer_id": "1345",
+      "offer_name": "Whites",
+      "affiliate_id": "6706",
+      "datetime": "8/30/2026",
+      "status": "pending",
+      "payout": "10.48",
+      "revenue": "11.39",
+      "sale_amount": "113.93",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2825612",
+      "offer_id": "1345",
+      "offer_name": "Whites",
+      "affiliate_id": "6706",
+      "datetime": "8/31/2026",
+      "status": "pending",
+      "payout": "12.27",
+      "revenue": "13.33",
+      "sale_amount": "133.32",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "8"
+    },
+    {
+      "transaction_id": "2825621",
+      "offer_id": "1345",
+      "offer_name": "Whites",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "8.2",
+      "revenue": "8.92",
+      "sale_amount": "89.17",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825624",
+      "offer_id": "1345",
+      "offer_name": "Whites",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "2.89",
+      "revenue": "3.14",
+      "sale_amount": "31.37",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825625",
+      "offer_id": "1345",
+      "offer_name": "Whites",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "2.51",
+      "revenue": "2.73",
+      "sale_amount": "27.31",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825626",
+      "offer_id": "1345",
+      "offer_name": "Whites",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "6.86",
+      "revenue": "7.46",
+      "sale_amount": "74.57",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825627",
+      "offer_id": "1345",
+      "offer_name": "Whites",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "6.77",
+      "revenue": "7.36",
+      "sale_amount": "73.6",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825630",
+      "offer_id": "1345",
+      "offer_name": "Whites",
+      "affiliate_id": "6706",
+      "datetime": "9/1/2026",
+      "status": "pending",
+      "payout": "3.24",
+      "revenue": "3.52",
+      "sale_amount": "35.21",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825631",
+      "offer_id": "1345",
+      "offer_name": "Whites",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "1.39",
+      "revenue": "1.51",
+      "sale_amount": "15.07",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825632",
+      "offer_id": "1345",
+      "offer_name": "Whites",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "6.18",
+      "revenue": "6.71",
+      "sale_amount": "67.14",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825635",
+      "offer_id": "1345",
+      "offer_name": "Whites",
+      "affiliate_id": "6706",
+      "datetime": "9/2/2026",
+      "status": "pending",
+      "payout": "38.49",
+      "revenue": "41.83",
+      "sale_amount": "418.33",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825649",
+      "offer_id": "1345",
+      "offer_name": "Whites",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "5.05",
+      "revenue": "5.49",
+      "sale_amount": "54.9",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825650",
+      "offer_id": "1345",
+      "offer_name": "Whites",
+      "affiliate_id": "6706",
+      "datetime": "9/5/2026",
+      "status": "pending",
+      "payout": "4.39",
+      "revenue": "4.78",
+      "sale_amount": "47.75",
+      "affiliate_info1": "ALC",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825654",
+      "offer_id": "1101",
+      "offer_name": "Sun & Sands",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "3.32",
+      "revenue": "4",
+      "sale_amount": "66.67",
+      "affiliate_info1": "DGG11",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825655",
+      "offer_id": "1101",
+      "offer_name": "Sun & Sands",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "8.97",
+      "revenue": "10.81",
+      "sale_amount": "180.19",
+      "affiliate_info1": "DIGI33",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825656",
+      "offer_id": "1101",
+      "offer_name": "Sun & Sands",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "5.27",
+      "revenue": "6.35",
+      "sale_amount": "105.88",
+      "affiliate_info1": "DIGI32",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825657",
+      "offer_id": "1101",
+      "offer_name": "Sun & Sands",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "8.46",
+      "revenue": "10.2",
+      "sale_amount": "169.97",
+      "affiliate_info1": "DIGI33",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825658",
+      "offer_id": "1101",
+      "offer_name": "Sun & Sands",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "6.42",
+      "revenue": "7.74",
+      "sale_amount": "129",
+      "affiliate_info1": "DGG17",
+      "geo": "UAE",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825659",
+      "offer_id": "1101",
+      "offer_name": "Sun & Sands",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "6.99",
+      "revenue": "8.42",
+      "sale_amount": "140.39",
+      "affiliate_info1": "DGR69",
+      "geo": "Kuwait",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825660",
+      "offer_id": "1101",
+      "offer_name": "Sun & Sands",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "4.16",
+      "revenue": "5.02",
+      "sale_amount": "83.62",
+      "affiliate_info1": "DGG11",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825717",
+      "offer_id": "1333",
+      "offer_name": "Golden Scent",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "3.25",
+      "revenue": "5",
+      "sale_amount": "0",
+      "affiliate_info1": "D364",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825718",
+      "offer_id": "1333",
+      "offer_name": "Golden Scent",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "3.25",
+      "revenue": "5",
+      "sale_amount": "0",
+      "affiliate_info1": "D245",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825784",
+      "offer_id": "1183",
+      "offer_name": "Riva Fashion",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "6.36",
+      "revenue": "8.48",
+      "sale_amount": "121.14",
+      "affiliate_info1": "W112",
+      "geo": "kwt",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825788",
+      "offer_id": "1183",
+      "offer_name": "Riva Fashion",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.13",
+      "revenue": "1.51",
+      "sale_amount": "21.61",
+      "affiliate_info1": "W112",
+      "geo": "bhr",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825792",
+      "offer_id": "1183",
+      "offer_name": "Riva Fashion",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "4.29",
+      "revenue": "5.72",
+      "sale_amount": "57.22",
+      "affiliate_info1": "W112",
+      "geo": "bhr",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825794",
+      "offer_id": "1183",
+      "offer_name": "Riva Fashion",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "11.3",
+      "revenue": "15.06",
+      "sale_amount": "215.16",
+      "affiliate_info1": "W112",
+      "geo": "ksa",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825806",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "4.11",
+      "revenue": "4.57",
+      "sale_amount": "45.68",
+      "affiliate_info1": "Z41",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825807",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "3.78",
+      "revenue": "4.2",
+      "sale_amount": "42.03",
+      "affiliate_info1": "Z41",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825808",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "4.1",
+      "revenue": "4.56",
+      "sale_amount": "45.58",
+      "affiliate_info1": "Z41",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825809",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "5.91",
+      "revenue": "6.57",
+      "sale_amount": "65.7",
+      "affiliate_info1": "Z47",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825810",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "4.69",
+      "revenue": "5.21",
+      "sale_amount": "52.06",
+      "affiliate_info1": "Z50",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825811",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.42",
+      "revenue": "1.58",
+      "sale_amount": "15.76",
+      "affiliate_info1": "Z47",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825815",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "6.08",
+      "revenue": "6.76",
+      "sale_amount": "67.59",
+      "affiliate_info1": "Z40",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825816",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.09",
+      "revenue": "1.21",
+      "sale_amount": "12.12",
+      "affiliate_info1": "Z47",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825819",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.79",
+      "revenue": "1.99",
+      "sale_amount": "19.92",
+      "affiliate_info1": "Z40",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825820",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "2.68",
+      "revenue": "2.98",
+      "sale_amount": "29.77",
+      "affiliate_info1": "Z50",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825822",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "3.36",
+      "revenue": "3.73",
+      "sale_amount": "37.3",
+      "affiliate_info1": "Z41",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825823",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "4.76",
+      "revenue": "5.29",
+      "sale_amount": "52.94",
+      "affiliate_info1": "Z41",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825824",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "4.26",
+      "revenue": "4.74",
+      "sale_amount": "47.38",
+      "affiliate_info1": "Z41",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825825",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "3.77",
+      "revenue": "4.19",
+      "sale_amount": "41.86",
+      "affiliate_info1": "Z50",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825826",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.14",
+      "revenue": "1.27",
+      "sale_amount": "12.65",
+      "affiliate_info1": "Z41",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825827",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.86",
+      "revenue": "2.07",
+      "sale_amount": "20.68",
+      "affiliate_info1": "Z47",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825829",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "3.51",
+      "revenue": "3.9",
+      "sale_amount": "39.04",
+      "affiliate_info1": "RY",
+      "geo": "UAE",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825830",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "6.86",
+      "revenue": "7.62",
+      "sale_amount": "76.17",
+      "affiliate_info1": "Z40",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825831",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "2.77",
+      "revenue": "3.08",
+      "sale_amount": "30.82",
+      "affiliate_info1": "Z41",
+      "geo": "UAE",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825832",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "3.85",
+      "revenue": "4.28",
+      "sale_amount": "42.83",
+      "affiliate_info1": "Z41",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825833",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "3.77",
+      "revenue": "4.19",
+      "sale_amount": "41.86",
+      "affiliate_info1": "Z50",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825834",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "2.4",
+      "revenue": "2.67",
+      "sale_amount": "26.66",
+      "affiliate_info1": "D88",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825835",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.93",
+      "revenue": "2.15",
+      "sale_amount": "21.5",
+      "affiliate_info1": "D88",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825839",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.23",
+      "revenue": "1.37",
+      "sale_amount": "13.71",
+      "affiliate_info1": "Z41",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825840",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.74",
+      "revenue": "0.82",
+      "sale_amount": "8.17",
+      "affiliate_info1": "Z41",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2825841",
+      "offer_id": "1215",
+      "offer_name": "Styli",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "2.62",
+      "revenue": "2.91",
+      "sale_amount": "29.14",
+      "affiliate_info1": "Z47",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828706",
+      "offer_id": "1365",
+      "offer_name": "Dar Alamirat",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.759466667",
+      "revenue": "0.949333333",
+      "sale_amount": "47.46666667",
+      "affiliate_info1": "DALC",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828707",
+      "offer_id": "1365",
+      "offer_name": "Dar Alamirat",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.989866667",
+      "revenue": "1.237333333",
+      "sale_amount": "61.86666667",
+      "affiliate_info1": "DALC",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828713",
+      "offer_id": "1365",
+      "offer_name": "Dar Alamirat",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.329066667",
+      "revenue": "1.898666667",
+      "sale_amount": "94.93333333",
+      "affiliate_info1": "DNNN",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828714",
+      "offer_id": "1365",
+      "offer_name": "Dar Alamirat",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.304266667",
+      "revenue": "0.434666667",
+      "sale_amount": "21.73333333",
+      "affiliate_info1": "DNNN",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828715",
+      "offer_id": "1365",
+      "offer_name": "Dar Alamirat",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.217066667",
+      "revenue": "1.738666667",
+      "sale_amount": "86.93333333",
+      "affiliate_info1": "DNNN",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828716",
+      "offer_id": "1365",
+      "offer_name": "Dar Alamirat",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.396266667",
+      "revenue": "1.994666667",
+      "sale_amount": "99.73333333",
+      "affiliate_info1": "DNNN",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828717",
+      "offer_id": "1365",
+      "offer_name": "Dar Alamirat",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.060266667",
+      "revenue": "1.514666667",
+      "sale_amount": "75.73333333",
+      "affiliate_info1": "DNNN",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828734",
+      "offer_id": "1365",
+      "offer_name": "Dar Alamirat",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.556266667",
+      "revenue": "0.794666667",
+      "sale_amount": "39.73333333",
+      "affiliate_info1": "RR56",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828742",
+      "offer_id": "1365",
+      "offer_name": "Dar Alamirat",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.6664",
+      "revenue": "0.952",
+      "sale_amount": "47.6",
+      "affiliate_info1": "RR88",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828777",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "9.56",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828778",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "9.56",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828779",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "9.56",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828780",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "9.56",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828781",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "9.56",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828782",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "9.56",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828783",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "9.56",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828784",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "9.56",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828785",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "9.56",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828786",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.28",
+      "revenue": "0.3",
+      "sale_amount": "9.53",
+      "affiliate_info1": "DD87",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828787",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.28",
+      "revenue": "0.3",
+      "sale_amount": "9.53",
+      "affiliate_info1": "DD87",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828788",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.28",
+      "revenue": "0.3",
+      "sale_amount": "9.53",
+      "affiliate_info1": "DD87",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828789",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.28",
+      "revenue": "0.3",
+      "sale_amount": "9.53",
+      "affiliate_info1": "DD87",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828790",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.28",
+      "revenue": "0.3",
+      "sale_amount": "9.53",
+      "affiliate_info1": "DD87",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828791",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.28",
+      "revenue": "0.3",
+      "sale_amount": "9.53",
+      "affiliate_info1": "DD87",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828792",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.28",
+      "revenue": "0.3",
+      "sale_amount": "9.53",
+      "affiliate_info1": "DD87",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828798",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "10.74",
+      "affiliate_info1": "ALC52",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828799",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "10.74",
+      "affiliate_info1": "ALC52",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828800",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "10.74",
+      "affiliate_info1": "ALC52",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828801",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "10.74",
+      "affiliate_info1": "ALC52",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828802",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "8.5",
+      "affiliate_info1": "ALC44",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828803",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "8.5",
+      "affiliate_info1": "ALC44",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828804",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "8.5",
+      "affiliate_info1": "ALC44",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828805",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "8.5",
+      "affiliate_info1": "ALC44",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828809",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "8.99",
+      "affiliate_info1": "ALC42",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828810",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "8.99",
+      "affiliate_info1": "ALC42",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828811",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "8.99",
+      "affiliate_info1": "ALC42",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828818",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.56",
+      "revenue": "0.7",
+      "sale_amount": "16.69",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828819",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.56",
+      "revenue": "0.7",
+      "sale_amount": "16.69",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828820",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.56",
+      "revenue": "0.7",
+      "sale_amount": "16.69",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828821",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.04",
+      "revenue": "1.3",
+      "sale_amount": "26.66",
+      "affiliate_info1": "ALC44",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828822",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.04",
+      "revenue": "1.3",
+      "sale_amount": "26.66",
+      "affiliate_info1": "ALC44",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828825",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.56",
+      "revenue": "0.7",
+      "sale_amount": "21.57",
+      "affiliate_info1": "ALC59",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828826",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.56",
+      "revenue": "0.7",
+      "sale_amount": "21.57",
+      "affiliate_info1": "ALC59",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828827",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.56",
+      "revenue": "0.7",
+      "sale_amount": "18.17",
+      "affiliate_info1": "ALC52",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828828",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.56",
+      "revenue": "0.7",
+      "sale_amount": "18.17",
+      "affiliate_info1": "ALC52",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828829",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.56",
+      "revenue": "0.7",
+      "sale_amount": "14.97",
+      "affiliate_info1": "ALC42",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828830",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.56",
+      "revenue": "0.7",
+      "sale_amount": "14.97",
+      "affiliate_info1": "ALC42",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828833",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "5.31",
+      "affiliate_info1": "ALC54",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828834",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.2",
+      "revenue": "1.3",
+      "sale_amount": "27.91",
+      "affiliate_info1": "DD87",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828836",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "2.6",
+      "revenue": "3.25",
+      "sale_amount": "62.37",
+      "affiliate_info1": "ALC44",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828837",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.26",
+      "revenue": "0.3",
+      "sale_amount": "6.68",
+      "affiliate_info1": "DD85",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828839",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "3.4",
+      "revenue": "4.25",
+      "sale_amount": "81.63",
+      "affiliate_info1": "ALC44",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828840",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.1",
+      "revenue": "1.3",
+      "sale_amount": "24.01",
+      "affiliate_info1": "DD86",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828841",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "6.44",
+      "revenue": "7",
+      "sale_amount": "238.14",
+      "affiliate_info1": "DD87",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828842",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "2.6",
+      "revenue": "3.25",
+      "sale_amount": "69.56",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828844",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.6",
+      "revenue": "0.7",
+      "sale_amount": "22.36",
+      "affiliate_info1": "DD85",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828845",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "5.6",
+      "revenue": "7",
+      "sale_amount": "186.69",
+      "affiliate_info1": "ALC57",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828847",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "5.6",
+      "revenue": "7",
+      "sale_amount": "187.67",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828849",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "8.83",
+      "affiliate_info1": "ALC59",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828851",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "5.95",
+      "revenue": "7",
+      "sale_amount": "203.47",
+      "affiliate_info1": "DD86",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828852",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.04",
+      "revenue": "1.3",
+      "sale_amount": "28.25",
+      "affiliate_info1": "ALC52",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828853",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "9.57",
+      "affiliate_info1": "ALC57",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828856",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.6",
+      "revenue": "0.7",
+      "sale_amount": "22.25",
+      "affiliate_info1": "DD86",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828857",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.24",
+      "revenue": "0.3",
+      "sale_amount": "11.42",
+      "affiliate_info1": "ALC53",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828859",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.04",
+      "revenue": "1.3",
+      "sale_amount": "24.99",
+      "affiliate_info1": "ALC32",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828860",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.64",
+      "revenue": "0.7",
+      "sale_amount": "16.98",
+      "affiliate_info1": "DD87",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828862",
+      "offer_id": "1282",
+      "offer_name": "Noon Egypt",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "0.56",
+      "revenue": "0.7",
+      "sale_amount": "16.27",
+      "affiliate_info1": "ALC44",
+      "geo": "egy",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828863",
+      "offer_id": "1185",
+      "offer_name": "Deraah",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "2.92",
+      "revenue": "3.24",
+      "sale_amount": "64.8",
+      "affiliate_info1": "DZ16",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828864",
+      "offer_id": "1185",
+      "offer_name": "Deraah",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.94",
+      "revenue": "2.16",
+      "sale_amount": "43.15",
+      "affiliate_info1": "DZ16",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828869",
+      "offer_id": "1185",
+      "offer_name": "Deraah",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "3.48",
+      "revenue": "3.87",
+      "sale_amount": "77.4",
+      "affiliate_info1": "DZ15",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828870",
+      "offer_id": "1185",
+      "offer_name": "Deraah",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.62",
+      "revenue": "1.8",
+      "sale_amount": "36",
+      "affiliate_info1": "DZ15",
+      "geo": "KSA",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2828871",
+      "offer_id": "1185",
+      "offer_name": "Deraah",
+      "affiliate_id": "6706",
+      "datetime": "9/6/2026",
+      "status": "pending",
+      "payout": "1.75",
+      "revenue": "1.95",
+      "sale_amount": "38.96",
+      "affiliate_info1": "DZ16",
+      "geo": "KSA",
+      "sales_status": "No Info",
       "month": "9"
     }
   ]
