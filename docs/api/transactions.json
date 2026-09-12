@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T05:37:01Z",
+  "last_updated": "2026-09-12T05:24:24Z",
   "source": "6706 Transactions",
   "sheet_id": "1KsSitjTjovlJegKIirqvpIwq00r9mwhg5hcKyC203Ec",
   "gid": "0",
@@ -7,7 +7,7 @@
   "mapping_source": "Mapping.xlsx",
   "mapped_offers": 131,
   "unmapped_offer_ids": [],
-  "total": 52426,
+  "total": 52428,
   "transactions": [
     {
       "transaction_id": "2283314",
@@ -786397,6 +786397,36 @@
       "affiliate_info1": "BCC",
       "geo": "KSA",
       "sales_status": "old",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2833915",
+      "offer_id": "1264",
+      "offer_name": "Trendyol",
+      "affiliate_id": "6706",
+      "datetime": "9/9/2026",
+      "status": "pending",
+      "payout": "421.8845066",
+      "revenue": "474.0275355",
+      "sale_amount": "616.2357961",
+      "affiliate_info1": "RAGHDX",
+      "geo": "UAE",
+      "sales_status": "No Info",
+      "month": "9"
+    },
+    {
+      "transaction_id": "2833955",
+      "offer_id": "1264",
+      "offer_name": "Trendyol",
+      "affiliate_id": "6706",
+      "datetime": "9/9/2026",
+      "status": "pending",
+      "payout": "12.46",
+      "revenue": "14",
+      "sale_amount": "18.2",
+      "affiliate_info1": "ALC",
+      "geo": "KSA",
+      "sales_status": "No Info",
       "month": "9"
     }
   ]
